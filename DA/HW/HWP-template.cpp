@@ -78,7 +78,6 @@ int main(){
     int n, m, k;
     // scanf("%d",&x);
     // fastscan(n);
-    cout << 
     // cin >> n >> m >> k;
     // for(int i = 0; i < n; i++){
     //     seen[i] = false;

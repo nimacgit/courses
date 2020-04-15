@@ -5,8 +5,8 @@
 using namespace std;
 
 const int maxn = 12, maxk = 1002;
-pair<int, pair<int, int>> adjvec[int(maxk*maxk/2)];
-pair<int, pair<int, int>> tmp[int(maxk*maxk/2)];
+pair<int, pair<int, int> > adjvec[int(maxk*maxk/2)];
+pair<int, pair<int, int> > tmp[int(maxk*maxk/2)];
 vector<int> adj[int(maxk*maxk/2)];
 int grade[maxk][maxn][maxn];
 int parent[maxk];
