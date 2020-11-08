@@ -7,3 +7,6 @@
 *.bak
 *.aux
 *.json
+*.ipynb_checkpoint
+.ipynb_checkpoint/
+ipynb_checkpoint/*
