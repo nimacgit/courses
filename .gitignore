@@ -6,7 +6,9 @@
 *.log
 *.bak
 *.aux
-*.json
+*.png
+*.jpg
+*.zip
 *.ipynb_checkpoints*
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
